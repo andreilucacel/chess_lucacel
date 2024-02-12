@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1704713559 source:c:\c folder\lucacel_andrei_s12\sah.c
+	<stdlib.h>
+	<stdio.h>
+	"sah.h"
+
+1704713581 source:c:\c folder\lucacel_andrei_s12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"sah.h"
+
+1703322592 c:\c folder\lucacel_andrei_s12\sah.h
+
